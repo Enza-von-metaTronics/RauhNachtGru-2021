@@ -30,7 +30,7 @@ body{
     background-color: rgb(9, 39, 18);  
     border: 5px groove rgba(34, 158, 117, 0.781);
     border-radius: 25px;
-    margin-top: 2rem;
+    margin-top: 5rem;
 }
 #txt{
     font-family: 'Dancing Script', cursive;
